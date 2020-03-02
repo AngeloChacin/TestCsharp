@@ -1,0 +1,11 @@
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.2\ConsoleAppTest.deps.json
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.2\ConsoleAppTest.runtimeconfig.json
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.2\ConsoleAppTest.runtimeconfig.dev.json
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.2\ConsoleAppTest.dll
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\netcoreapp2.2\ConsoleAppTest.pdb
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.2\ConsoleAppTest.csprojAssemblyReference.cache
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.2\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.2\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.2\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.2\ConsoleAppTest.dll
+C:\Users\Vesper\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\netcoreapp2.2\ConsoleAppTest.pdb
